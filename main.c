@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "util_math.h"
 
 int main()
 {
@@ -7,7 +8,8 @@ int main()
 	int b=2;
 	int c;
 
-	printf("%d + %d = %d\n", a, b, a+b);
+	c = Util_Add(a, b);
+	printf("%d + %d = %d\n", a, b, c);
 	return 0;
 }
 
