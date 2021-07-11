@@ -1,0 +1,3 @@
+[submodule "utils/math"]
+	path = utils/math
+	url = https://github.com/UrbanIzzy/math_sub.git
