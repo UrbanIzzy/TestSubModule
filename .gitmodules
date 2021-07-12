@@ -1,3 +1,6 @@
 [submodule "utils/math"]
 	path = libs/math
 	url = https://github.com/UrbanIzzy/math_sub.git
+[submodule "periph_sub"]
+	path = periph_sub
+	url = https://github.com/UrbanIzzy/periph_sub.git
